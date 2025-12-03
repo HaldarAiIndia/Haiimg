@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haiimg.vercel.app/sitemap.xml
+Sitemap: https://haiimg.vercel.app/sitemap.txt
